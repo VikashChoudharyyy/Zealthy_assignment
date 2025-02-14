@@ -68,7 +68,7 @@ To install the Slot Booking Application, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/slot-booking-app.git
+   git clone https://github.com/VikashChoudharyyy/Zealthy_assignment.git
    ```
 
 2. Navigate to the project directory:
